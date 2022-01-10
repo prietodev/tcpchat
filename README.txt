@@ -232,13 +232,3 @@ the GO button
 The picture and the attributes should change as the user is selected
 
 Click the BACK button to go back to the Send Message page
-
-------------------------------------------------------------------------------
-                                Final Comments                                
-------------------------------------------------------------------------------
-I want to say thank you one more time for everything that you've for me and
-the other students. I have learned so much over these 2 years thanks to the
-amount of effort you put into your students. I hope that we can keep in touch
-and you enjoy this last program I've written for you.
-
--Daniel Prieto
